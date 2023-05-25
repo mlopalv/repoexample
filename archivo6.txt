@@ -1,1 +1,2 @@
 archivo6.txt
+archivo6.txt nueva linea
