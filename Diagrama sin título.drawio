@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-21T15:33:56.684Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="nA9CI8OBb8p9HdDi1Sjd" version="22.1.21" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-21T15:35:25.217Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="CecjnChvtp7mZmqbVXGf" version="22.1.21" type="github">
   <diagram name="Página-1" id="rN3XlVAQjFaSEYC1Yilz">
     <mxGraphModel dx="1434" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -42,10 +42,16 @@
           <mxGeometry x="310" y="585" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="j7QohlKFkAiEEWni9EKj-9" value="EJS Views" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="510" y="290" width="120" height="60" as="geometry" />
+          <mxGeometry x="490" y="290" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="j7QohlKFkAiEEWni9EKj-14" value="App.js&lt;br&gt;(Entry point)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="70" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="j7QohlKFkAiEEWni9EKj-15" value="API Routes" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="j7QohlKFkAiEEWni9EKj-16" value="API Controllers" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="140" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
